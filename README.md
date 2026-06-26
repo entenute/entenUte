@@ -60,6 +60,14 @@ I love **clean architecture**, **modular hooks**, **theme-safe design**, and **p
 
 ---
 
+# My Projects
+- **<a href="https://quack.ottohahnien.de/">Quack</a>** a Short message service for my school (build it in a small team)
+- Webpage with news a Map etc. <a href="https://ottohahnien.de/">Webpage</a> (build it in a small team)
+- <a href="https://sortsmart.de/">SortSmart</a>: aAi that helps you sort trash. I build the hole Frontend AND Backend (only the AI is from my partner)
+- Some local Webpages to practise **React** und **Next.js**
+
+---
+
 ## My Design 
 - **Theme-safe** (Dark/Light Mode)
 - **Clean architecture** (Hooks, Services, Stores)
