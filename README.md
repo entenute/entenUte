@@ -1,5 +1,8 @@
 <!-- Banner -->
-<h1 align="center">ENTENUTE</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/entenute/entenute/main/rainbow-entenute.svg" width="400" />
+</h1>
+
 <div align="center" >
   <img width="112" height="144" alt="DuckGIF" src="https://github.com/user-attachments/assets/b5435ad7-b35f-4b09-93be-eb0c3d9421e0" />
   </div>
