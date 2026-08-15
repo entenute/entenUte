@@ -50,6 +50,8 @@ I love **clean architecture**, **modular hooks**, **theme-safe design**, and **p
 ### 🔹 Backend & Hosting
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
+![Express](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg)
 
 ---
 
@@ -73,8 +75,8 @@ I love **clean architecture**, **modular hooks**, **theme-safe design**, and **p
 ---
 
 ## Contact
-**Discord:** @entenUte  
-**GitHub:** https://github.com/entenute
+![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg) @entenUte  
+![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg) https://github.com/entenute
 
 ---
 
