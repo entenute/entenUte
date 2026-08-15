@@ -58,7 +58,6 @@ I love **clean architecture**, **modular hooks**, **theme-safe design**, and **p
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=entenute&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=entenute&theme=tokyonight" />
   <p>I have a loot of private projects.</p>
 </p>
