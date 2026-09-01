@@ -28,6 +28,12 @@ I love **clean architecture**, **modular hooks**, **theme-safe design**, and **p
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### 🔹 IOT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Microbit](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white)
+![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
+![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
 ### 🔹 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -44,6 +50,8 @@ I love **clean architecture**, **modular hooks**, **theme-safe design**, and **p
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -63,6 +71,20 @@ I love **clean architecture**, **modular hooks**, **theme-safe design**, and **p
 </p>
 
 ---
+## Projects
+
+(public soon): CLI Tool to check what a dependency is doing (and way more): ![NDM Badge](https://custom-icon-badges.demolab.com/badge/Node_Dependency_Monitor-NDM?style=for-the-badge&logo=ndm&label=NDM&labelColor=white&color=gray)
+
+private in a team:
+* Short message system: ![Quack Badge](https://custom-icon-badges.demolab.com/badge/short_messages-for_the_OHG?style=for-the-badge&label=Quack&labelColor=orange&color=yellow&link=https%3A%2F%2Fquack.ottohahnien.de%2F&logo=quack)
+* A small Election Compass
+* I built a website with a news system and dashboard for journalists, etc., for my school.
+
+(private): SortSmart (a Webpage in Next.js)
+
+*yeah I work in a small team (@Pandapancace and @KArtoffelUTE)*
+
+---
 
 ## My Design 
 - **Theme-safe** (Dark/Light Mode)
@@ -75,7 +97,10 @@ I love **clean architecture**, **modular hooks**, **theme-safe design**, and **p
 
 ## Contact
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) @entenUte  
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) https://github.com/entenute
+
+![NDM-Email](https://custom-icon-badges.demolab.com/badge/NDM_Email-NDM?style=for-the-badge&logo=ndm&label=NDM&labelColor=white&color=gray) entenute@ndm-cli.dev | entenute@icloud.com
 
 ---
 
